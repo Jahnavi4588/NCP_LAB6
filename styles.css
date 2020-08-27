@@ -1,0 +1,17 @@
+* {
+	margin: 5px;
+	padding: 5px;
+	position: relative;
+}
+
+h1 {
+	text-align: center;
+}
+
+div {
+	white-space:pre-wrap;
+}
+
+ul {
+	white-space:normal;
+}
